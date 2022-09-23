@@ -7,6 +7,8 @@ In today's world its important that people can see whats happening with there ac
 # How it is built
 It is built using Moralis(Really great stuff) and ipfs. Api's and system is built in nodejs which fetches user data, aggregates and converts that data in easy format and then display it on ui. Html/css/ejs/javascript/nodejs are used to build this platform. IPFS is used to see metadata and visualize the data stored there with links of nft.storage, metadata.storage. etc. 
 
+### Built Using Moralis and IPFS
+### Deployed and Works On Polygon Mainnet
 
 # Links 
 Live URL: [https://web3me.herokuapp.com/](https://web3me.herokuapp.com/)
